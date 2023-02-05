@@ -158,7 +158,6 @@ nav ul li a {
 }
 .about{
   display: flex;
-  height: 80vh;
 }
 
 .academics ,.programming, .hobbies{
@@ -166,7 +165,7 @@ nav ul li a {
   height: 30%;
   text-align: justify;
   padding: 20px;
-  margin:30px 16px;
+  margin:20px 16px;
   border-radius: 10px;
   border: #cbd3ca 1px ridge;
 }
@@ -199,7 +198,6 @@ footer{
 }
 footer .social-media {
   position: absolute;
-  bottom: 20px;
   display: flex;
   justify-content: center;
   width: 100%;
